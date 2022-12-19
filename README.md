@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abidkhan8800
+- 👋 Hi, I’m Abid Khan
 - 👀 I’m interested in Full Stack development.
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning/working on MERN Stack
 - 📫 How to reach me khanabid844708@gmail.com | 8800636504
 
 <!---
